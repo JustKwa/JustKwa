@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JustKwa
-- 👀 I’m interested in ...Computer Science
-- 🌱 I’m currently learning ... Information Technology in RMIT
+- 👀 I’m interested in Computer Science
+- 🌱 I’m currently learning Information Technology in RMIT
 - 📫 You can reach me by my email khoadtnwin@gmail.com
 
 <!---
